@@ -1,8 +1,8 @@
 ## env install
 
-npm install -g fis3
-npm install -g fis-parser-babel-5.x
-npm install -g fis3-hook-commonjs
+npm install -g fis3</br>
+npm install -g fis-parser-babel-5.x</br>
+npm install -g fis3-hook-commonjs</br>
 
 ## 整体架构
 
