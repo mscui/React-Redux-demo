@@ -1,0 +1,29 @@
+.voice-main .addkeywords-input {
+    margin-right: 10px;
+    width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.addkeywords {
+    position: relative;
+    width: 150px;
+    display: inline-block;
+}
+.addkeywords-wrapper {
+    display: inline-block;
+}
+.addkeywords-btn {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.addkeywords-input-remove {
+    position: absolute;
+    top: 6px;
+    right: 10px;
+}
+.addkeywords-btn {
+    margin-left: 5px;
+}
+.addkeywords-input-addicon {
+    margin: 0 10px;
+}

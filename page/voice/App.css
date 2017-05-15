@@ -1,0 +1,44 @@
+button,
+input,
+select,
+textarea {
+    outline: none;
+}
+.voice .voice-main {
+    width: 90%;
+    min-width: 1230px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.voice .voice-header {
+    min-width: 1230px;
+}
+.voice .container {
+    margin: 0;
+    min-width: 1230px;
+}
+.voice .navbar {
+    border-radius: 0;
+}
+#voice-icon {
+    color: #fff;
+}
+.voice .navbar-form .form-control-custom {
+    width: 300px;
+}
+.voice-filter {
+    height: 60px;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    padding: 13px;
+    margin-top: 10px;
+}
+.voice-filter-multiselect {
+    float: left;
+}
+.voice-filter-button {
+    float: right;
+}
+.voice-charts {
+    margin-top: 20px;
+}

@@ -1,0 +1,23 @@
+{
+    "data": {
+        "total_count": 1000,
+        "page_size": 50,
+        "page_no": 1,
+        "cnt_list": [
+            {
+                "event_day": "20170421",
+                "key_word": "xxx",
+                "type": "xxxxx",
+                "attr": "sadaads"
+            },
+            {
+                "event_day": "20170421",
+                "key_word": "xxx",
+                "type": "xxxxx",
+                "attr": "sadaads"
+            }
+        ]
+    },
+    "errno": 0,
+    "msg": ""
+}

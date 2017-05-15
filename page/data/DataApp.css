@@ -1,0 +1,44 @@
+button,
+input,
+select,
+textarea {
+    outline: none;
+}
+.data .data-main {
+    width: 90%;
+    min-width: 1230px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.data .data-header {
+    min-width: 1230px;
+}
+.data .container {
+    margin: 0;
+    min-width: 1230px;
+}
+.data .navbar {
+    border-radius: 0;
+}
+#data-icon {
+    color: #fff;
+}
+.data .navbar-form .form-control-custom {
+    width: 300px;
+}
+.data-filter {
+    height: 60px;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    padding: 13px;
+}
+.data-filter-multiselect {
+    float: left;
+}
+.data-filter-button {
+    float: right;
+}
+.data-control .addkeywords-wrapper,
+.data-table {
+    margin-bottom: 20px;
+}
